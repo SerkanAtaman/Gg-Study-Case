@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 801db978b52323e40ace96a0ece7a652, type: 3}
+  m_Name: languageValue_english
+  m_EditorClassIdentifier: 
+  _letterValues:
+  - Value: 1
+    Letters:
+    - e
+    - a
+    - o
+    - n
+    - r
+    - t
+    - l
+    - s
+    - u
+    - i
+  - Value: 2
+    Letters:
+    - d
+    - g
+  - Value: 3
+    Letters:
+    - b
+    - c
+    - m
+    - p
+  - Value: 4
+    Letters:
+    - f
+    - h
+    - v
+    - w
+    - y
+  - Value: 5
+    Letters:
+    - k
+  - Value: 8
+    Letters:
+    - j
+    - x
+  - Value: 10
+    Letters:
+    - q
+    - z

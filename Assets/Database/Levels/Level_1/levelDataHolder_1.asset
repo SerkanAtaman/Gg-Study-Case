@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df574a8d2f2d78e449a777285cdb9b6b, type: 3}
+  m_Name: levelDataHolder_1
+  m_EditorClassIdentifier: 
+  _levelID: 1
+  _levelData:
+    title: MODERN TECHNOLOGY
+    tiles:
+    - id: 0
+      position:
+        x: 32
+        y: -28
+        z: 99.72
+      character: T
+      children: 
+    - id: 1
+      position:
+        x: 32
+        y: -20
+        z: 99.8
+      character: A
+      children: 
+    - id: 2
+      position:
+        x: 16
+        y: -20
+        z: 99.8
+      character: I
+      children: 
+    - id: 3
+      position:
+        x: 12
+        y: -16
+        z: 98.84
+      character: A
+      children: 020000000c000000
+    - id: 4
+      position:
+        x: 24
+        y: -8
+        z: 99.92
+      character: T
+      children: 
+    - id: 5
+      position:
+        x: 24
+        y: -12
+        z: 98.88
+      character: A
+      children: 04000000
+    - id: 6
+      position:
+        x: 16
+        y: -28
+        z: 99.72
+      character: H
+      children: 
+    - id: 7
+      position:
+        x: 16
+        y: -48
+        z: 97.52
+      character: L
+      children: 0d0000000f000000
+    - id: 8
+      position:
+        x: 36
+        y: -16
+        z: 98.84
+      character: E
+      children: 010000000a000000
+    - id: 9
+      position:
+        x: 12
+        y: -24
+        z: 98.76
+      character: B
+      children: 0600000002000000
+    - id: 10
+      position:
+        x: 32
+        y: -12
+        z: 99.88
+      character: D
+      children: 
+    - id: 11
+      position:
+        x: 36
+        y: -24
+        z: 98.76
+      character: T
+      children: 0000000001000000
+    - id: 12
+      position:
+        x: 16
+        y: -12
+        z: 99.88
+      character: C
+      children: 
+    - id: 13
+      position:
+        x: 16
+        y: -46
+        z: 99.54
+      character: P
+      children: 
+    - id: 14
+      position:
+        x: 32
+        y: -46
+        z: 99.54
+      character: A
+      children: 
+    - id: 15
+      position:
+        x: 16
+        y: -47
+        z: 98.53
+      character: R
+      children: 0d000000
+    - id: 16
+      position:
+        x: 32
+        y: -47
+        z: 98.53
+      character: Y
+      children: 0e000000
+    - id: 17
+      position:
+        x: 16
+        y: -20
+        z: 97.8
+      character: C
+      children: 020000000900000003000000
+    - id: 18
+      position:
+        x: 32
+        y: -20
+        z: 97.8
+      character: B
+      children: 010000000b00000008000000
+    - id: 19
+      position:
+        x: 32
+        y: -48
+        z: 97.52
+      character: E
+      children: 0e00000010000000
+  _languageModel: {fileID: 11400000, guid: 514a3b58d82bb394aafeba9e139f1ff6, type: 2}
+  _jsonToImport: {fileID: 4900000, guid: e5a02d4a84343944fb0647016e23397a, type: 3}
